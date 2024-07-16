@@ -6,10 +6,20 @@ The simulator for the Micromouse competition includes features such as solving a
 
 # Steps
 
+After downloading "Maze_Solver_Simulator" Open "InterfaceMazeSolver_FASTEST_PATH.m"
+
   1-Click on "Load" and choose a PNG maze image.
+  
   2-Choose the resolution of the maze (larger resolution for bigger mazes).
+  
   3-Customize parameters such as animation, diagonal path, micromouse speed, velocity, etc.
+  
   4-Select an algorithm (BFS, DFS, A*) or choose the fastest path option.
+  
   5-Choose the starting point and ending point within the maze.
 
 # Tutorial
+
+
+https://github.com/user-attachments/assets/e2341bcc-d7c2-4021-82bc-f5e2ace9efd7
+
