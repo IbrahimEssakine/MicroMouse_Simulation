@@ -4,6 +4,9 @@ In this repository, you can find a MATLAB-based simulator application for the Mi
 # Features
 The simulator for the Micromouse competition includes features such as solving algorithms (BFS, DFS, A*), tracking metrics (score, exploration time, path completion time), customizable micromouse parameters (speed, acceleration, deceleration, turn velocity), full maze preview, mouse POV perspectives, pause functionality, strategic wall-breaking for path optimization, and flexibility in choosing start/destination points and enabling/disabling diagonal path animations during solving.
 
+![MicroMouse Simulator Interface](https://github.com/user-attachments/assets/7dcbe85d-e5c3-4274-85cd-a623f09b2fa2)
+
+
 # Steps
 
 After downloading "Maze_Solver_Simulator" Open "InterfaceMazeSolver_FASTEST_PATH.m"
